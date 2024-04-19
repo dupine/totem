@@ -7,7 +7,8 @@
 </head>
 <body>
     <div id="immagine">
-        <img src="immagini/gg.jpeg" alt="Mia Immagine">
+        <img style="height: 200px; width: 200px;" src="immagini/current.jpg" alt="Mia Immagine">
+        <p></p>
     </div>
 </body>
 </html>
